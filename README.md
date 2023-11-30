@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🎓 BSc degreee in Computer Science (Eötvös Lóránd University in Budapest, 2023)
-- 📖 Currently studiing Computer Science MSc at Eötvös Lóránd University in Budapest
+- 📖 Currently studying Computer Science MSc at Eötvös Lóránd University in Budapest
 - 🧠 Experience in C# and ASP.NET, a little PHP and React
 - 👨‍🏫 Instructor of Object Oriented Programming and Programming theory
