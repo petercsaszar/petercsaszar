@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎓 BSc degreee in Computer Science (Eötvös Lóránd University in Budapest, 2023)
-- 📖 Currently studying Computer Science MSc at Eötvös Lóránd University in Budapest
+- 🎓 MSc degreee in Computer Science (Eötvös Lóránd University in Budapest, 2023)
+- 📖 Currently studying Computer Science PhD at Eötvös Lóránd University in Budapest
 - 🧠 Experience in C#, PHP and React
-- 👨‍🏫 Instructor of Object Oriented Programming, Programming theory, Event-driven programming, Software technology
+- 👨‍🏫 Instructor of Object Oriented Programming, Programming theory, Event-driven programming, Software technology, Research Methodology
